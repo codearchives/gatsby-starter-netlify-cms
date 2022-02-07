@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: 👍 Rekuperacja Trójmiasto 👍
-image: /img/home-jumbotron.jpg
+title: Rekuperacja Trójmiasto
+image: /img/r-architecture-manvojlquvg-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Świadczymy usługi z zakresu instalacji systemu rekuperacji na
   terenie Trójmiasta (Gdańsk, Sopot, Gdynia) i okolic
